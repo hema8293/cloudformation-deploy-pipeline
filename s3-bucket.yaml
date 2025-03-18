@@ -4,7 +4,7 @@ Description: CloudFormation template to create an S3 bucket with configurable na
 Parameters:
   BucketName:
     Type: String
-    Description: The name of the S3 bucket name
+    Description: The name of the S3 bucket 
 
   VersioningEnabled:
     Type: String
